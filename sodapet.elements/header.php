@@ -74,6 +74,6 @@ session_start();
 		echo "<div class=\"alert alert-success\"><button type=\"button\" class=\"close\" data-dismiss=\"alert\">&times;</button><strong>Sucesso ! - </strong>Bem vindo ao SóDáPet.org</div>";
 	}
 	
-	echo "</div><a href=\"http://www.sodapet.org\"><img src=\"sodapet.images/logo_sodapet_home_1.png\" class=\"logo_home\" onmouseover=\"this.src='sodapet.images/logo_sodapet_home.png'\" onmouseout=\"this.src='sodapet.images/logo_sodapet_home_1.png'\"/></a>";
+	echo "</div><a href=\"#\"><img src=\"sodapet.images/logo_sodapet_home_1.png\" class=\"logo_home\" onmouseover=\"this.src='sodapet.images/logo_sodapet_home.png'\" onmouseout=\"this.src='sodapet.images/logo_sodapet_home_1.png'\"/></a>";
 	
 ?>
